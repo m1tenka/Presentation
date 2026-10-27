@@ -4,7 +4,9 @@
 
 ## Как смотреть
 
-Откройте `index.html` в браузере или включите GitHub Pages (Settings → Pages → Deploy from branch → `main` / root).
+Онлайн: https://m1tenka.github.io/Presentation/
+
+GitHub Pages собирает сайт из ветки `gh-pages`. После правок в `main` обновите её: `git push origin main:gh-pages`.
 
 - Колесо мыши, стрелки, PageUp/PageDown, пробел или свайп меняют слайд.
 - Кнопки внизу справа листают вперёд и назад, `Home` и `End` ведут к первому и последнему слайду.
