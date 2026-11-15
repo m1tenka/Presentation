@@ -14,7 +14,7 @@
   const metaHTML =
     '<span>©Дмитрий Золотарёв</span>' +
     '<span>Предложение\nоктябрь 2026</span>' +
-    '<span>Unicar · PhuketDrive\nDandy · logistics.kaz</span>' +
+    '<span>Unicar · PhuketDrive · Лодки\nDandy · logistics.kaz</span>' +
     '<span>2026</span>';
   document.querySelectorAll('.meta').forEach((m) => { m.innerHTML = metaHTML; });
 
